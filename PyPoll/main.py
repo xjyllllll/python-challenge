@@ -4,7 +4,13 @@ import os
 #file path
 csvpath = "C:/Users/XJY/Desktop/COLNYC20190716DATA-master/02-Homeworks/03-Python/Instructions/PyPoll/resources/election_data.csv"
 pathout = "C:/Users/XJY/Desktop/COLNYC20190716DATA-master/02-Homeworks/03-Python/Instructions/PyPoll/resources/election_analysis.txt"
-total_count = 0; khan_count = 0; correy_count = 0; li_count = 0; otooley_count = 0; max_votecount = 0
+
+total_count = 0 
+khan_count = 0 
+correy_count = 0 
+li_count = 0 
+otooley_count = 0 
+max_votecount = 0
 
 
 #read CSV file
